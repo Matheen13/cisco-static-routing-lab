@@ -31,4 +31,3 @@ ip route 102.102.102.0 255.255.255.252 101.101.101.2
 2. Ensure you have **Cisco Packet Tracer** installed.
 3. Open the `static-routing-lab.pkt` file.
 4. Execute endpoint testing via PING or the Packet Tracer ICMP Simulation panel.
-5.
